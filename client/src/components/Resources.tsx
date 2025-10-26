@@ -25,13 +25,7 @@ const resources = [
     color: "text-accent",
     bgColor: "bg-accent/10",
   },
-  {
-    icon: Phone,
-    title: "Crisis Helplines",
-    description: "24/7 professional support when you need it most",
-    color: "text-destructive",
-    bgColor: "bg-destructive/10",
-  },
+  
   {
     icon: Heart,
     title: "Self-Care Tips",

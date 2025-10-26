@@ -5,7 +5,7 @@ const features = [
   {
     icon: BarChart3,
     title: "Track Your Progress",
-    description: "Visualize your mood patterns and wellness journey over time with insightful analytics",
+    description: "Visualize yor progress over time with easy-to-understand charts and insights",
   },
   {
     icon: Lock,
